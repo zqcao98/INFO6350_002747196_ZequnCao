@@ -1,0 +1,23 @@
+name: example_project
+description: A new Flutter application.
+version: 1.0.0+1
+publish_to: 'none'  # Remove this if you intend to publish to pub.dev
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'  # Ensure this matches the SDK versions compatible with your Flutter version
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add other dependencies here, for example:
+  # cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/lake.jpg  # Make sure the directory and file names match what you have in your project
