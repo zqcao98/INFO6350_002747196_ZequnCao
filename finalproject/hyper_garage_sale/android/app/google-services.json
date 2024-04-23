@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969713260435",
+    "project_id": "hypergaragesale-15d0b",
+    "storage_bucket": "hypergaragesale-15d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969713260435:android:aeaf77c9cb88a6dd08ba66",
+        "android_client_info": {
+          "package_name": "com.mycompany.hypergaragesale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-dkg9xHMOG8bFFiEOzOic-KIIulxUniE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
